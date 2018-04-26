@@ -39,7 +39,7 @@
 		}
 
 			.main.fullscreen {
-				height: 900px !important;
+				height: auto !important;
 			}
 
 			.main.style1 {
