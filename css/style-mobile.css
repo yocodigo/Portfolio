@@ -78,7 +78,7 @@
 
 				#intro {
 					background: url('images/batur-small.jpg');
-					background-size: 700px 75%, cover;
+					background-size: 700px 400px, cover;
 				}
 
 			.main.style3 {
