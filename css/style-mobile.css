@@ -39,7 +39,7 @@
 		}
 
 			.main.fullscreen {
-				height: auto !important;
+				height: 600px !important;
 			}
 
 			.main.style1 {
@@ -78,7 +78,7 @@
 
 				#intro {
 					background: url('images/batur-small.jpg');
-					background-size: 400px 100%, cover;
+					background-size: 100% 100%, cover;
 				}
 
 			.main.style3 {
