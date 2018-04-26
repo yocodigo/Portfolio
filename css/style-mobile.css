@@ -76,6 +76,11 @@
 					background-size: cover;
 				}
 
+				#intro {
+					background: url('images/batur-small.jpg');
+					background-size: 900px 100%, cover;
+				}
+
 			.main.style3 {
 				text-align: center;
 				padding: 3em 10px 3em 10px;
