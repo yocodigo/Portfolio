@@ -809,7 +809,7 @@
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: #fff;
+		background-color: #c0c0c0;
 		background: rgba(255,255,255,0.95);
 		height: 3em;
 		line-height: 3em;
@@ -839,6 +839,7 @@
 		top: 0;
 		height: 3em;
 		line-height: 3em;
+		background-color: #c0c0c0;
 	}
 
 		#nav ul {
