@@ -867,7 +867,7 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/mt_batur4.jpg'), url('../images/intro.jpg');
+		background: url('images/mt_batur4x.jpg'), url('../images/intro.jpg');
 		background-size: 1556px 100%, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
