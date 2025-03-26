@@ -1,4 +1,3 @@
-// components/LatestCode.js
 import React, { useEffect, useState } from "react";
 import GithubRepoCard from "./GithubRepoCard";
 import getLatestRepos from "../lib/getLatestRepos";
