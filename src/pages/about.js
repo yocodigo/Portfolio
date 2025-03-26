@@ -23,7 +23,7 @@ export default function About() {
                       <p className="text-gray-600 dark:text-gray-400 text-xl">Your Photo</p>
                     </div>
                     <h1 className="text-3xl font-bold text-gray-900 dark:text-white mt-4">
-                      Your Name
+                      Joel Hernandez
                     </h1>
                     <p className="text-xl text-gray-600 dark:text-gray-400 mt-2">
                       Full Stack Developer
@@ -106,7 +106,7 @@ export default function About() {
                   </h2>
                   <div className="mb-6">
                     <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
-                      Bachelor of Science in Computer Science
+                      Bachelor of Science in Industrial Technology  
                     </h3>
                     <p className="text-gray-600 dark:text-gray-400">
                       San Jose State University

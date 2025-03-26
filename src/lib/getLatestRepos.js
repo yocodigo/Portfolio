@@ -1,4 +1,3 @@
-// lib/getLatestRepos.js
 import axios from "axios";
 
 const getLatestRepos = async (data) => {
