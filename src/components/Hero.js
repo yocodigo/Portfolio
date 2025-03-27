@@ -34,7 +34,7 @@ export default function Hero() {
         <div className="w-3/4">
           <div className="w-full h-auto overflow-hidden rounded-md shadow-xl">
             {/* Replace with your own image */}
-            <div className="relative w-full h-96">
+            <div className="relative w-full h-86">
               {/* <div className="absolute inset-0 bg-gray-300 dark:bg-gray-600 flex items-center justify-center text-xl text-gray-700 dark:text-gray-300"> */}
               <div className="image-container">
               <img 

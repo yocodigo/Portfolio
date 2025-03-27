@@ -20,7 +20,13 @@ export default function About() {
                 <div className="h-full rounded-lg overflow-hidden shadow-lg bg-white dark:bg-gray-800">
                   <div className="p-4">
                     <div className="w-full h-96 rounded-lg bg-gray-300 dark:bg-gray-700 flex items-center justify-center">
-                      <p className="text-gray-600 dark:text-gray-400 text-xl">Your Photo</p>
+                      {/* <p className="text-gray-600 dark:text-gray-400 text-xl">Your Photo</p> */}
+                    {/* <div className="image-container"> */}
+                        <img 
+                            src="images/headshot2.jpg" 
+                            alt="Professional headshot"
+                        />
+                    {/* </div> */}
                     </div>
                     <h1 className="text-3xl font-bold text-gray-900 dark:text-white mt-4">
                       Joel Hernandez

@@ -5,7 +5,7 @@ const getLatestRepos = async (data) => {
     const username = data.githubUsername;
 
     const res = await axios.get(
-      `https://the-civic-agenda.fly.dev/`
+      `https://api.github.com/search/repositories?q=user:${username}+sort:author-date-asc`
     );
 
     let repos = res.data.items;
