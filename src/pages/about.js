@@ -32,7 +32,7 @@ export default function About() {
                       Joel Hernandez
                     </h1>
                     <p className="text-xl text-gray-600 dark:text-gray-400 mt-2">
-                      Full Stack Developer
+                      Full Stack Engineer
                     </p>
                     <div className="flex mt-4 space-x-4">
                       <a href="https://github.com/yocodigo" target="_blank" rel="noopener noreferrer">

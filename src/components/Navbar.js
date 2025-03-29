@@ -22,7 +22,7 @@ export default function Navbar() {
                 Joel Hernandez
               </h1>
               <p className="text-base font-light text-gray-500 dark:text-gray-300">
-                Web Developer
+                Full Stack Engineer
               </p>
           </Link>
         </div>
