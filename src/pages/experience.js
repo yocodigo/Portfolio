@@ -35,18 +35,18 @@ export default function Experience() {
                     <div className="flex flex-row">
                       <div>
                         <h3 className="text-lg md:text-xl font-semibold text-gray-900 dark:text-white">
-                          Freelance Developer
+                          Freelance Full Stack Developer
                         </h3>
                         <p className="text-sm text-green-600 dark:text-green-500">
-                            Self | Hackathon collaboration | 2025 - Present
+                            Self | 2025 - Present
                         </p>
                         <p className="mt-2 text-gray-600 dark:text-gray-400">
-                          ● First to successfully meet challenge of creating a civic site scraper script to download agenda docs <br></br>
-                          ● Crreated a specialized chat bot that provides responses on inquires specific to collection of agendas and proved as a useful tool for county advocates <br></br>
-                          ● Created a food analyzer that will determine the nutrional value and whether its safe to consume <br></br>
-                          ● Built portfolio site <br></br>
-                          ● Built a financial dashboard to have all the information I need in one place to make informed decisions before making stock/option trades
-                          ● Partnered to build a food ordering service site
+                          ● At a civic hackathon, I was first to successfully develop a civic site scraper script to download agenda documents. <br></br>  
+                          ● Created a specialized chatbot that provides responses to inquiries related to agenda collection, serving as a valuable resource for county advocates. <br></br>  
+                          ● Designed a food analyzer to assess nutritional value and safety for consumption. <br></br>  
+                          ● Developed a personal portfolio website. <br></br>  
+                          ● Built a financial dashboard to consolidate information for informed stock and options trading decisions. <br></br>  
+                          ● Collaborated to create a food ordering service website.
                         </p>
                         <div className="mt-2">
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
@@ -56,7 +56,19 @@ export default function Experience() {
                             Spring Boot
                           </span>
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
-                            PostgreSQL
+                            NextJS
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            React
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            TailwindCSS
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            OpenAI API
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Fly.io
                           </span>
                         </div>
                       </div>

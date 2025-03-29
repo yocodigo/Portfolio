@@ -69,9 +69,15 @@ export default function About() {
                     Biography
                   </h2>
                   <p className="text-gray-600 dark:text-gray-400 text-lg mb-4">
-                    I am an innovative and detail-oriented professional with proven expertise in designing and deploying high-quality software solutions.
-                    Proficient in Java, I have a strong background in back-end development, database management, and microservices architecture.
-                    I excel in coordinating with teams, leading development initiatives, and exceeding high-profile client expectations.
+                    I consider myself the inquisitive type. I want to know how things work. Then, I want to know how I can use that knowledge and make the best of that knowledge
+                    by applying it in real-world scenarios. I've leveraged that innate curiosity and my strong work ethic to always deliver in high-stake situations to
+                    some of the most prominent tech companies in the world.
+
+                    My experience and strong appetite for knowledge and building cool things has made me what I am today someone that is proficiency in Java and generally strong 
+                    background in back-end development, database management, and microservices architecture.
+                    I excel in coordinating with teams, leading development initiatives, and exceeding high-profile client expectations. Lately I've found great joy in building
+                    apps in React, Python and LLMs, such as Google's NotebookLM and OpenAI's Assistants API.
+
                   </p>
                   <p className="text-gray-600 dark:text-gray-400 text-lg mb-4">
                     My skills include optimizing code, implementing best practices, enhancing system performance and scalability, and improving API functionality.
