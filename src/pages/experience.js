@@ -99,7 +99,7 @@ export default function Experience() {
                           Senior Software Developer
                         </h3>
                         <p className="text-sm text-blue-600 dark:text-blue-500">
-                          ThoughtWorks | Client: International Auction Company | 2023 - 2023
+                          ThoughtWorks | Client: International Auction Company | 2023 - 2024
                         </p>
                         <p className="mt-2 text-gray-600 dark:text-gray-400">
                           ● Augmented data processing efficiency by 15% by streamlining data consumption across services. <br></br>

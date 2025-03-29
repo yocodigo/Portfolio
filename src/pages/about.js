@@ -69,21 +69,23 @@ export default function About() {
                     Biography
                   </h2>
                   <p className="text-gray-600 dark:text-gray-400 text-lg mb-4">
-                    I consider myself the inquisitive type. I want to know how things work. Then, I want to know how I can use that knowledge and make the best of that knowledge
-                    by applying it in real-world scenarios. I've leveraged that innate curiosity and my strong work ethic to always deliver in high-stake situations to
-                    some of the most prominent tech companies in the world.
+                    I consider myself the inquisitive type. I’m driven by an insatiable curiosity and a relentless desire to solve real-world problems through technology. 
+                    I've leveraged that innate curiosity and my strong work ethic to always deliver in high-stakes situations to some 
+                    of the most prominent tech companies in the world. The experience I've gained and my strong appetite for knowledge and building cool things have made 
+                    me who I am today. I am proficient in Java and have a strong background in back-end development, database management, optimizing code, implementing 
+                    best practices, enhancing system performance and scalability, improving API functionality, and microservices architecture. Thru that experience, I've 
+                    also excelled in coordinating with teams, leading development initiatives, and exceeding high-profile client expectations. 
+                    For example, on several occassions, I lead cross-functional teams to successfully deliver high-stakes projects under tight deadlines. <br></br><br></br>   
 
-                    My experience and strong appetite for knowledge and building cool things has made me what I am today someone that is proficiency in Java and generally strong 
-                    background in back-end development, database management, and microservices architecture.
-                    I excel in coordinating with teams, leading development initiatives, and exceeding high-profile client expectations. Lately I've found great joy in building
-                    apps in React, Python and LLMs, such as Google's NotebookLM and OpenAI's Assistants API.
+                    I always stay committed to continuous learning, by staying ahead of the latest trends and technologies that push the boundaries 
+                    of innovation. Recently, I’ve been building apps using a modern tech stack, including Next.Js, Python, and cutting-edge large 
+                    language models such as Google’s NotebookLM and OpenAI’s Assistants API. This journey has allowed me to create intuitive, 
+                    scalable applications that solve real-world challenges. <br></br><br></br> 
+
+                    Moving forward, I’m excited to continue evolving my skills, diving deeper into AI and machine learning, and exploring new ways 
+                    to apply these technologies to build smarter, more efficient solutions for tomorrow’s challenges.
 
                   </p>
-                  <p className="text-gray-600 dark:text-gray-400 text-lg mb-4">
-                    My skills include optimizing code, implementing best practices, enhancing system performance and scalability, and improving API functionality.
-                    I am committed to continuous learning and staying updated with the latest industry trends and technologies to drive innovation and streamline software development processes.
-                  </p>
-                  
                   <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4 mt-8">
                     Skills
                   </h2>
@@ -118,7 +120,7 @@ export default function About() {
                   </h2>
                   <div className="mb-6">
                     <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
-                      Bachelor of Science in Industrial Technology  
+                      Bachelor of Science in Industrial Technology, Minor in Business
                     </h3>
                     <p className="text-gray-600 dark:text-gray-400">
                       San Jose State University
