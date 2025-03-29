@@ -41,10 +41,15 @@ export default function Projects() {
             <a href="#" className="w-full block shadow-2xl">
               <div className="relative overflow-hidden rounded-lg">
                 <div className="h-72 bg-gray-300 dark:bg-gray-700 flex items-center justify-center">
-                  <p className="text-gray-600 dark:text-gray-400 text-xl">Project Image 2</p>
+                <img 
+                    src="images/findashboard.png" 
+                    alt="Professional headshot" 
+                    layout="fill"
+                    objectFit="contain"
+                  />
                 </div>
                 <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
-                  Project Two
+                  Financial Dashboard
                 </h1>
                 <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                   02
@@ -56,10 +61,15 @@ export default function Projects() {
             <a href="#" className="w-full block shadow-2xl">
               <div className="relative overflow-hidden rounded-lg">
                 <div className="h-72 bg-gray-300 dark:bg-gray-700 flex items-center justify-center">
-                  <p className="text-gray-600 dark:text-gray-400 text-xl">Project Image 3</p>
+                <img 
+                    src="images/food-analyzer.png" 
+                    alt="Professional headshot" 
+                    layout="fill"
+                    objectFit="contain"
+                  />
                 </div>
                 <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-green-500 rounded-md px-2">
-                  Project Three
+                  Food Analyzer
                 </h1>
                 <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                   03
@@ -68,7 +78,7 @@ export default function Projects() {
             </a>
             
             {/* Project Card 4 */}
-            <a href="#" className="w-full block shadow-2xl">
+            {/* <a href="#" className="w-full block shadow-2xl">
               <div className="relative overflow-hidden rounded-lg">
                 <div className="h-72 bg-gray-300 dark:bg-gray-700 flex items-center justify-center">
                   <p className="text-gray-600 dark:text-gray-400 text-xl">Project Image 4</p>
@@ -80,7 +90,7 @@ export default function Projects() {
                   04
                 </h1>
               </div>
-            </a>
+            </a> */}
           </div>
         </div>
       </section>
