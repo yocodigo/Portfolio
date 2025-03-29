@@ -17,8 +17,8 @@ export default function Hero() {
           </RainbowHighlight>
         </RoughNotationGroup>
         <p className="text-xl text-gray-700 dark:text-gray-300 mt-4">
-          I build exceptional digital experiences for the web. Focusing on responsive design, 
-          accessibility, and modern web technologies.
+          "Hello! I'm Joel, and thank you for visiting my personal website, where I showcase some of my projects. 
+          Whether I'm working on personal or professional projects, I always prioritize security, performance, simplicity, modern design, and scalability."
         </p>
         <div className="mt-8">
           <a
@@ -33,7 +33,6 @@ export default function Hero() {
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
         <div className="w-3/4">
           <div className="w-full h-auto overflow-hidden rounded-md shadow-xl">
-            {/* Replace with your own image */}
             <div className="relative w-full h-86">
               {/* <div className="absolute inset-0 bg-gray-300 dark:bg-gray-600 flex items-center justify-center text-xl text-gray-700 dark:text-gray-300"> */}
               <div className="image-container">

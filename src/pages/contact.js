@@ -9,20 +9,20 @@ export default function Contact() {
     >
       <section>
         <div className="max-w-6xl mx-auto h-56 bg-white dark:bg-gray-800">
-          <h1 className="text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
+          <h1 className="text-5xl md:text-9xl font-bold py-20 text-center md:text-center">
             Contact
           </h1>
         </div>
-        <div className="relative z-10 rounded-md shadow-md bg-blue-600 p-4 md:p-10 lg:p-20 max-w-6xl mx-auto mb-20 -mt-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="relative z-4 rounded-md shadow-md bg-blue-600 p-4 md:p-10 lg:p-20 max-w-2xl mx-auto mb-20 -mt-4">
+          <div className="flex flex-col items-center justify-center">
             <div className="md:ml-4">
               <header className="">
                 <h1 className="text-gray-50 font-semibold text-2xl">
-                  Get in touch, let's talk.
+                  Get in touch, let's talk :)
                 </h1>
-                <p className="font-light text-base text-gray-200 mt-2">
+                {/* <p className="font-light text-base text-gray-200 mt-2">
                   Fill in the details and I'll get back to you as soon as I can.
-                </p>
+                </p> */}
               </header>
               <div className="icons-container inline-flex flex-col my-20">
                 <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-4 mt-4">
@@ -36,9 +36,12 @@ export default function Contact() {
                   >
                     <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z" />
                   </svg>
-                  <p className="text-gray-50 font-light text-sm">
+                  <a 
+                    href="mailto:contact_jhern@proton.me" 
+                    className="text-gray-50 font-light text-sm hover:text-white"
+                  >
                     contact_jhern@proton.me
-                  </p>
+                  </a>
                 </div>
                 <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-4 mt-4">
                   <svg
@@ -93,7 +96,7 @@ export default function Contact() {
                 </a>
               </div>
             </div>
-            <form className="form rounded-lg bg-white p-4 flex flex-col">
+            {/* <form className="form rounded-lg bg-white p-4 flex flex-col">
               <label htmlFor="name" className="text-sm text-gray-600 mx-4">
                 Your Name
               </label>
@@ -127,7 +130,7 @@ export default function Contact() {
               >
                 Send Message
               </button>
-            </form>
+            </form> */}
           </div>
         </div>
       </section>

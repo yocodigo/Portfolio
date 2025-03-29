@@ -98,7 +98,7 @@ export default function Experience() {
                     <div className="flex flex-row">
                       <div>
                         <h3 className="text-lg md:text-xl font-semibold text-gray-900 dark:text-white">
-                          BS in Industrial Technology and a Minor in Business
+                          BS in Industrial Technology, Minor in Business
                         </h3>
                         <p className="text-sm text-yellow-600 dark:text-yellow-500">
                           San Jose State University
