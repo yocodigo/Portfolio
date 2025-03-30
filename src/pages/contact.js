@@ -7,15 +7,15 @@ export default function Contact() {
       title="Contact - Joel Hernandez"
       description="Get in touch with me for collaboration or questions"
     >
-      <section>
-        <div className="max-w-6xl mx-auto h-56 bg-white dark:bg-gray-800">
+      <section className="h-screen flex flex-col">
+        <div className="max-w-6xl mx-auto bg-white dark:bg-gray-800 py-8">
           <h1 className="text-5xl md:text-9xl font-bold py-20 text-center md:text-center">
             Contact
           </h1>
         </div>
         <div className="relative z-4 rounded-md shadow-md bg-blue-600 p-4 md:p-10 lg:p-20 max-w-2xl mx-auto mb-20 -mt-4">
           <div className="flex flex-col items-center justify-center">
-            <div className="md:ml-4">
+            <div className="md:ml-6">
               <header className="">
                 <h1 className="text-gray-50 font-semibold text-2xl">
                   Get in touch, let's talk :)
@@ -24,8 +24,8 @@ export default function Contact() {
                   Fill in the details and I'll get back to you as soon as I can.
                 </p> */}
               </header>
-              <div className="icons-container inline-flex flex-col my-20">
-                <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-4 mt-4">
+              <div className="icons-container inline-flex flex-col my-6">
+                <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-3 mt-3">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
@@ -43,7 +43,7 @@ export default function Contact() {
                     contact_jhern@proton.me
                   </a>
                 </div>
-                <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-4 mt-4">
+                <div className="flex flex-row items-center space-x-6 rounded-md border border-blue-500 hover:border hover:border-blue-600 p-3 mt-3">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
