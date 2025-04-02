@@ -41,12 +41,10 @@ export default function Experience() {
                           Freelance | 2025 - Present
                         </p>
                         <p className="mt-2 text-gray-600 dark:text-gray-400">
-                          ● At a civic hackathon, I was first to successfully develop a civic site scraper script to download agenda documents. <br></br>  
-                          ● Created a specialized chatbot that provides responses to inquiries related to agenda collection, serving as a valuable resource for county advocates. <br></br>  
-                          ● Designed a food analyzer to assess nutritional value and safety for consumption. <br></br>  
-                          ● Developed a personal portfolio website. <br></br>  
-                          ● Built a financial dashboard to consolidate information for informed stock and options trading decisions. <br></br>  
-                          ● Collaborated to create a food ordering service website.
+                          ● Developed a civic site scraper to automate agenda document downloads, enhancing local governance transparency.
+                          ● Built a specialized chatbot using React, Python, and OpenAI Assistants API to streamline agenda collection inquiries for county advocates.
+                          ● Designed a food analyzer to assess nutritional value and safety, currently in development.
+                          ● Created a financial dashboard consolidating stock and options data for informed trading decisions.
                         </p>
                         <div className="mt-2">
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
