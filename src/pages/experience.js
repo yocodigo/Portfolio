@@ -35,10 +35,10 @@ export default function Experience() {
                     <div className="flex flex-row">
                       <div>
                         <h3 className="text-lg md:text-xl font-semibold text-gray-900 dark:text-white">
-                          Freelance Full Stack Developer
+                          Full Stack Web Developer
                         </h3>
                         <p className="text-sm text-green-600 dark:text-green-500">
-                            Self | 2025 - Present
+                          Freelance | 2025 - Present
                         </p>
                         <p className="mt-2 text-gray-600 dark:text-gray-400">
                           ● At a civic hackathon, I was first to successfully develop a civic site scraper script to download agenda documents. <br></br>  
@@ -65,10 +65,22 @@ export default function Experience() {
                             TailwindCSS
                           </span>
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Python
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
                             OpenAI API
                           </span>
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
                             Fly.io
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Visual Studio Code
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Intelli J
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            PyCharm
                           </span>
                         </div>
                       </div>
@@ -124,6 +136,9 @@ export default function Experience() {
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
                             Honeycomb
                           </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Intelli J
+                          </span>
                         </div>
                       </div>
                     </div>
@@ -135,7 +150,7 @@ export default function Experience() {
                     <div className="flex flex-row">
                       <div>
                         <h3 className="text-lg md:text-xl font-semibold text-gray-900 dark:text-white">
-                          Senior Software Developer
+                          Software Developer
                         </h3>
                         <p className="text-sm text-green-600 dark:text-green-500">
                             ThoughtWorks | Client: Large Technology Conglomerate(FAANG) | 2020 - 2022
@@ -167,6 +182,9 @@ export default function Experience() {
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
                             Spring REST Docs
                           </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Intelli J
+                          </span>
                         </div>
                       </div>
                     </div>
@@ -179,7 +197,7 @@ export default function Experience() {
                     <div className="flex flex-row">
                       <div>
                         <h3 className="text-lg md:text-xl font-semibold text-gray-900 dark:text-white">
-                          Senior Software Developer
+                          Software Developer
                         </h3>
                         <p className="text-sm text-green-600 dark:text-green-500">
                             ThoughtWorks | Client: Prominent E-Commerce Enterprise | 2019 - 2020
@@ -199,6 +217,9 @@ export default function Experience() {
                           </span>
                           <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
                             PostgreSQL
+                          </span>
+                          <span className="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2">
+                            Intelli J
                           </span>
                         </div>
                       </div>
